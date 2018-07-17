@@ -15,7 +15,7 @@ driver.manage().window().maximize();
 
 driver.get("http://www.facebook.com");
 
-System.out.println("Browser Opened with Facebook");
+
 
 driver.quit();
 
